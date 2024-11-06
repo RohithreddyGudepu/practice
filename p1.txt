@@ -1,1 +1,2 @@
 Hello World
+notepad p1.txt is used to add data into the file
